@@ -36,15 +36,15 @@
 3. cat (Concatenate)
    * Ex 1: ![Image](cat1.png)
    * There was no directory selected
-   * It returned the name of a directory, lecture1, since lecture1 is the only thing to list
-   * It was not an error because the command, ls, was used correctly.
+   * It didnt return anything. However, it recieves a user input and return it back to the user until the user decides to end it with CrtlD.
+   * It was not an error because the cat command still accepts inputs from the user without crashing. However, the user does need to end the program.
   
    * Ex 2: ![Image](cat2.png)
    * There was no directory selected
-   * It returned the names of all the files in lecture1
-   * It was not an error because it successfully listed all the files in lecture1 and was used correctly.
+   * It returned a statement that says that lecture1 is a directory. The cat command only really be used with files.
+   * It was error because bash  returned a statement that says that lecture1 is a directory.
   
    * Ex 3: ![Image](cat3.png)
    * The working directory was in the messages directory, which was in the lecture1 directory
-   * It returned the name of the file, ko.txt
-   * It was not an error since the ls command was used correctly. It fufilled its purpose by returning the name of the file, ko.txt
+   * It returned the contents of the file in ko.txt
+   * It was not an error since the ls command was used correctly. It fufilled its purpose by returning the contents of the file.
