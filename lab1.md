@@ -7,12 +7,12 @@
    * Nothing really happened since I didnt put any directory argument
    * It was not an error because nothing happens with just cd as a command
   
-   * Ex 2: ![Image]([lab1_pics/cd2.png](https://github.com/JustCode65/cse15l-lab-reports/blob/main/lab1_pics/cd2.PNG))
+   * Ex 2: ![Image](https://github.com/JustCode65/cse15l-lab-reports/blob/main/lab1_pics/cd2.PNG)
    * There was no directory selected
    * It accessed the lecture1 directory since lecture1 is an accessible directory
    * It was not an error because it successfully accessed the lecture1 directory
   
-   * Ex 3: ![Image]([lab1_pics/cd3.png](https://github.com/JustCode65/cse15l-lab-reports/blob/main/lab1_pics/cd3.PNG))
+   * Ex 3: ![Image](https://github.com/JustCode65/cse15l-lab-reports/blob/main/lab1_pics/cd3.PNG)
    * The working directory was in the messages directory, which was in the lecture1 directory
    * It returned a statement that tells the user that ko.txt was not a directory. cd only works with directories. not text files.
    * It was an error because bash returned a statement. It told the user to not use text files as a diectory.
