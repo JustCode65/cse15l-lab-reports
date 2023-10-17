@@ -34,7 +34,7 @@
    * It was not an error since the ls command was used correctly. It fufilled its purpose by returning the name of the file, ko.txt
   
 3. cat (Concatenate)
-   * Ex 1: ![Image](cat.PNG)
+   * Ex 1: ![Image](cat1.PNG)
    * Working directory was /home
    * It didnt return anything. However, it recieves a user input and return it back to the user until the user decides to end it with Crtl+D.
    * It was not an error because the cat command still accepts inputs from the user without crashing. However, the user does need to manually end the program.
