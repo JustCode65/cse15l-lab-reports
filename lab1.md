@@ -2,7 +2,7 @@
 ***
 
 1. cd (Change Directory)
-   * Ex 1: ![Image](cd1.PNG)
+   * Ex 1: ![Image](cd1.png)
    * Working directory was /home
    * Nothing happened since I didnt put any directory argument. cd by itself just returned to home.
    * It was not an error because nothing really happens with just cd as a command. cd by itself just returned to home.
