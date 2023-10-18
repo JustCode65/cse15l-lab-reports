@@ -24,7 +24,7 @@
       * '+': these are the chars that the url uses to replace an illegal char ' '.
       * ' ': we are trying to replace the '+' chars with ' ', so that we can accurately return the user's string.
 ***    
-3. PART II:
+2. PART II:
 ***
    * ![Image](add-message2.png)
    * The methods mentioned are: .contains(String s), url.getPath(), url.equals(String s), url.getQuery(), .split(String s), addSpaces(String s)
