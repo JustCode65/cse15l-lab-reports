@@ -1,6 +1,10 @@
 # **LAB REPORT 2**
 ***
+
 1. PART I
+
+***
+
    * ![Image](add-message1.png)
    * The methods mentioned are: .contains(String s), url.getPath(), url.equals(String s), url.getQuery(), .split(String s)
    * Methods/Fields:
@@ -22,8 +26,13 @@
       * URI url: the url that is used from the user's input on the website.
       * '+': these are the chars that the url uses to replace an illegal char ' '.
       * ' ': we are trying to replace the '+' chars with ' ', so that we can accurately return the user's string.
-***    
+
+***
+
 2. PART II:
+
+***
+
    * ![Image](add-message2.png)
    * The methods mentioned are: .contains(String s), url.getPath(), url.equals(String s), url.getQuery(), .split(String s), addSpaces(String s)
    * Methods/Fields:
@@ -47,4 +56,6 @@
       * URI url: the url that is used from the user's input on the website.
       * '+': these are the chars that the url uses to replace an illegal char ' '.
       * ' ': we are trying to replace the '+' chars with ' ', so that we can accurately return the user's string.
+
+
     
