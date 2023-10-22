@@ -29,10 +29,6 @@
 
 ***
 
-2. PART II:
-
-***
-
    * ![Image](add-message2.png)
    * The methods mentioned are: .contains(String s), url.getPath(), url.equals(String s), url.getQuery(), .split(String s), addSpaces(String s)
    * Methods/Fields:
@@ -57,5 +53,27 @@
       * '+': these are the chars that the url uses to replace an illegal char ' '.
       * ' ': we are trying to replace the '+' chars with ' ', so that we can accurately return the user's string.
 
+***
+
+2. PART II:
+
+***
+
+  * private: C:\Users\justk\.ssh\id_rsa
+  * ![Image](private_key.png)
+
+  * public: cs15lfa23cl@ieng6.ucsd.edu:~/.ssh/authorized_keys
+  * ![Image](public_key.png)
+
+  * Term. login
+  * ![Image](no_pass.png)
+
+***
+
+3. PART III
+
+***
+
+  * In week 2, I learned how to buld my own server using Java on my ieng6 account. I also learned how to interact with my server without using the same 4000 port number. On week 3, I learned how to use scp and copy keys/files from my pc to the server. However, the most interesting command I found useful was the mkdir command. This can be pretty useful when organizing files.
 
     
