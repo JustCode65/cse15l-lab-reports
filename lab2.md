@@ -1,7 +1,7 @@
 # **LAB REPORT 2**
 ***
 
-1. PART I
+PART I
 
 ***
 
@@ -55,7 +55,7 @@
 
 ***
 
-2. PART II:
+PART II:
 
 ***
 
@@ -70,7 +70,7 @@
 
 ***
 
-3. PART III
+PART III
 
 ***
 
