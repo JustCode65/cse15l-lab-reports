@@ -12,7 +12,7 @@ PART I
    * Methods/Fields:
        * Methods:
           * contains:
-              * param = `+`. This is because in order to send the string back to the user, the server must remove any `+` signs that were used to replace the illegal presence of `' '` in the user`s input from the url.
+              * param = `+`. This is because in order to send the string back to the user, the server must remove any `+` signs that were used to replace the illegal presence of `' '` in the user's input from the url.
               * param = `/add-message`. This is used in case the user decides to input a message.
           * `url.getPath()`: param = string from path. It is used to determine what to do with the user's input for the url path.
           * `url.equals()`: param = `/`. Used just in case the user has not inputted any string.
@@ -23,7 +23,7 @@ PART I
       * `String s`: the string we print out to the user (which comes from the user)
       * `String ans`: this is a local string variable in my custon method: `addSpaces(String s)`. It is not used at all in the screenshot.
       * `int count`: The number of strings the user has inputted so far.
-      * `String input`: string used to grab user's inputted string. It is later combined with other strings to make string s.
+      * `String input`: string used to grab user's inputted string. It is later combined with other strings to make `String s`.
       * `String[] parameters`: used to grab the user's input. Note: any spaces in the input have been replaced with `+`.
       * `URI url`: the url that is used from the user's input on the website.
       * `+`: these are the chars that the url uses to replace an illegal char `' '`.
@@ -49,7 +49,7 @@ PART I
       * `String ans`: this is a local string variable in my custon method: `addSpaces(String s)`. `ans` is used as a temp variable that holds the correct version of the user's input with `' '` chars instead of `+` chars that come with the url.
       * `String s`: a param used in addSpaces. It's searched through for having `+` chars. If any `+`s are found, the method addSpaces adds a space to `ans`.
       * `int count`: The number of strings the user has inputted so far.
-      * `String input`: string used to grab user's inputted string. It is later combined with other strings to make string s.
+      * `String input`: string used to grab user's inputted string. It is later combined with other strings to make `String s`.
       * `String[] parameters`: used to grab the user's input. Note: any spaces in the input have been replaced with `+`.
       * `URI url`: the url that is used from the user's input on the website.
       * `+`: these are the chars that the url uses to replace an illegal char `' '`.
