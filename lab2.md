@@ -36,12 +36,12 @@ PART I
    * Methods/Fields:
        * Methods:
           * contains:
-              * param = `+`. This is because in order to send the string back to the user, the server must remove any `+` signs that were used to replace the illegal presence of `' '` in the user`s input from the url.
+              * param = `+`. This is because in order to send the string back to the user, the server must remove any `+` signs that were used to replace the illegal presence of `' '` in the user's input from the url.
               * param = `/add-message`. This is used in case the user decides to input a message.
-          * `url.getPath()`: param = string from path. It is used to determine what to do with the user`s input for the url path.
+          * `url.getPath()`: param = string from path. It is used to determine what to do with the user's input for the url path.
           * `url.equals()`: param = `/`. Used just in case the user has not inputted any string.
           * `url.getQuery()`: used to get the query of the url
-          * `url.getQuery.split("=")`: param: `=`. Used to split the string in order to grab the user-inputted string in parameters[1].
+          * `url.getQuery.split("=")`: param: `=`. Used to split the string in order to grab the user-inputted string in `parameters[1]`.
           * `addSpaces(String s)`
       * Fields: `String s`, `String ans`, `int count`, `String input`, `String[] parameters`, `URI url`, `+`, `' '`
    * Relevant fields:
@@ -51,7 +51,7 @@ PART I
       * `int count`: The number of strings the user has inputted so far.
       * `String input`: string used to grab user's inputted string. It is later combined with other strings to make string s.
       * `String[] parameters`: used to grab the user's input. Note: any spaces in the input have been replaced with `+`.
-      * `URI url`: the url that is used from the user`s input on the website.
+      * `URI url`: the url that is used from the user's input on the website.
       * `+`: these are the chars that the url uses to replace an illegal char `' '`.
       * `' '`: we are trying to replace the `+` chars with `' '`, so that we can accurately return the user's string.
 
@@ -61,10 +61,10 @@ PART II:
 
 ***
 
-  * private: C:\Users\justk\.ssh\id_rsa
+  * private: `C:\Users\justk\.ssh\id_rsa`
   * ![Image](private_key.png)
 
-  * public: cs15lfa23cl@ieng6.ucsd.edu:~/.ssh/authorized_keys
+  * public: `cs15lfa23cl@ieng6.ucsd.edu:~/.ssh/authorized_keys`
   * ![Image](public_key.png)
 
   * Term. login
