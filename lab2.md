@@ -17,7 +17,7 @@ PART I
           * `url.getPath()`: param = string from path. It is used to determine what to do with the user's input for the url path.
           * `url.equals()`: param = `/`. Used just in case the user has not inputted any string.
           * `url.getQuery()`: used to get the query of the url
-          * `url.getQuery.split("=")`: param: `=`. Used to split the string in order to grab the user-inputted string in parameters[1].
+          * `url.getQuery.split("=")`: param: `=`. Used to split the string in order to grab the user-inputted string in `parameters[1]`.
       * Fields: `String s`, `String ans`, `int count`, `String input`, `String[] parameters`, `URI url`, `+`, `' '`
    * Relevant fields:
       * `String s`: the string we print out to the user (which comes from the user)
