@@ -2,8 +2,6 @@
 
 ***
 PART I
-***
-
    * ![Image](code_lab3.png)
 
    * ![Image](add-message1.png)
@@ -56,7 +54,6 @@ PART I
 
 ***
 PART II:
-***
 
   * private: `C:\Users\justk\.ssh\id_rsa`
   * ![Image](private_key.png)
@@ -69,7 +66,6 @@ PART II:
 
 ***
 PART III
-***
 
   * In week 2, I learned how to buld my own server using Java on my ieng6 account. I also learned how to interact with my server without using the same 4000 port number. On week 3, I learned how to use scp and copy keys/files from my pc to the server. However, the most interesting command I found useful was the mkdir command. This can be pretty useful when organizing files.
 
