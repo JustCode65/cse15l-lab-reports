@@ -1,7 +1,7 @@
 # **LAB REPORT 2**
 ***
 PART I
-   * ![Image](coe_lab3.png)
+   * ![Image](code_lab3.png)
    * ![Image](add-message1.png)
    * The methods mentioned are: `.contains(String s)`, `url.getPath()`, `url.equals(String s)`, `url.getQuery()`, `.split(String s)`
    * Methods/Fields:
