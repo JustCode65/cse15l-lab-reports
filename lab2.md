@@ -14,7 +14,7 @@ PART I
           * contains:
               * param = `+`. This is because in order to send the string back to the user, the server must remove any `+` signs that were used to replace the illegal presence of `' '` in the user`s input from the url.
               * param = `/add-message`. This is used in case the user decides to input a message.
-          * `url.getPath()`: param = string from path. It is used to determine what to do with the user`s input for the url path.
+          * `url.getPath()`: param = string from path. It is used to determine what to do with the user's input for the url path.
           * `url.equals()`: param = `/`. Used just in case the user has not inputted any string.
           * `url.getQuery()`: used to get the query of the url
           * `url.getQuery.split("=")`: param: `=`. Used to split the string in order to grab the user-inputted string in parameters[1].
