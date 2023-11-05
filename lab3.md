@@ -5,11 +5,11 @@ PART I
 ***
 
   * Failure inducing input:
-  *  `@Test\n`
-      `public void averageWithoutLowest2(){`
-        `double[] arr =  {2.2,2.2,2.2,2.2};`
-        `assertEquals(2.2, ArrayExamples.averageWithoutLowest(arr), 0.0001);`
-      `}`
+  *  `@Test`
+  *   `public void averageWithoutLowest2(){`
+  *   `  double[] arr =  {2.2,2.2,2.2,2.2};`
+  *   `  assertEquals(2.2, ArrayExamples.averageWithoutLowest(arr), 0.0001);`
+  *   `}`
   * ![Image](lab3_code1.png)
 
   * No Failure inducing input:
