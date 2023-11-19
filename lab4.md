@@ -16,7 +16,7 @@
 ![Image](lab4_4.png)
 
 7. '<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>' The 'vim ListExmaples.java' command was 18 up in the search history. I used the up arrow to access the command. Then the aforementioned command was found, so I pressed the '<enter>' key and ran it.
-  - '<down>' key until I reach the line that needs to be fixed. ('<down>' key 43 times). I then decided to press the right arrow button 11 times (<right><right><right><right><right><right><right><right><right><right><right>) to move the cursor above '1'. After that, I press '<x>' to delete '1'. To finally fix the error I press '<i>' to enter insert mode, and then press '<2>'. This changes the '1' to '2'
+  - '<down>' key until I reach the line that needs to be fixed. ('<down>' key 43 times). I then decided to press the right arrow button 11 times ('<right><right><right><right><right><right><right><right><right><right><right>') to move the cursor above '1'. After that, I press '<x>' to delete '1'. To finally fix the error I press '<i>' to enter insert mode, and then press '<2>'. This changes the '1' to '2'
   - To save and quit the files, I press '<esc>' to return to normal mode and type ':wq' and '<enter>' to do so.
  
 ![Image](lab4_5.png)
