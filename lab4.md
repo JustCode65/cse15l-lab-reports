@@ -28,6 +28,3 @@
 9. Typed: `git add --all.`. This helps add any changes/files I made to the respository.
 - Typed `git commit -m "done"`. This commits the changes from terminal
 - Typed `git push`. This pushs the changes to my github account.
-
-Time taken
-- 5 minutes and 1 second.
