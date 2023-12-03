@@ -72,5 +72,5 @@ PART I - Debugging Scenario
           ```
     5. Command line: ![Image](lab5_code8.png)
         - NOTE: USER MUST SPECIFICALLY TYPE: 'i will not study everything for my exam' (Case sensitive)
-        - 'bash test.sh i will not study everything for my exam'
-    6. Fix: Change the for loop by changing the 'i += 3' to 'i += 2'.
+        - `bash test.sh i will not study everything for my exam`
+    6. Fix: Change the for loop by changing the `i += 3` to `i += 2`.
