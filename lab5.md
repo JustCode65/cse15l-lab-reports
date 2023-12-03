@@ -74,3 +74,10 @@ PART I - Debugging Scenario
         - NOTE: USER MUST SPECIFICALLY TYPE: 'i will not study everything for my exam' (Case sensitive)
         - `bash test.sh i will not study everything for my exam`
     6. Fix: Change the for loop by changing the `i += 3` to `i += 2`.
+   
+
+***
+PART 2 - Reflection
+***
+
+ * From this class, I learned how to use more terminal commnads like grep, xargs, find, etc... I also learned how to commit/add/push code to github and request changes. Overall, this class was incredibly useful. 
